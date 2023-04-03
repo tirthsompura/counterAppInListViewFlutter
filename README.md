@@ -1,6 +1,6 @@
 # counter_flutter_app_in_listview
 
-A new Flutter project.
+A new Flutter project for listview in counter items.
 
 ## Getting Started
 
